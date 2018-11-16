@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/helloworld/com/web/service/HelloWorld.java=UTF-8
+encoding//src/helloworld/com/web/service/HelloWorldService.java=UTF-8
+encoding//src/helloworld/com/web/service/HelloWorldServiceLocator.java=UTF-8
+encoding//src/helloworld/com/web/service/HelloWorldSoapBindingStub.java=UTF-8
